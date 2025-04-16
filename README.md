@@ -38,6 +38,7 @@
 {% endfolding %}
 
 ```
+## 喇叭框內文字
 ```
 {% note blue 'anzhiyufont anzhiyu-icon-bullhorn' simple %}输入内容{% endnote %}
 ```
