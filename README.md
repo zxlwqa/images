@@ -1,5 +1,5 @@
   # 存档
-![/zxlwq/home/raw/dev/screenshots/main.jpg](/blog/1.webp)
+![zxlwq](https://images.zxl.cc.ua/blog/1.webp)
 ```
 https://images.zxl.cc.ua/blog/1.webp
 ```
