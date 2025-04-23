@@ -26,10 +26,6 @@ https://images.zxl.cc.ua/blog/13.webp
 ```
 https://images.zxl.cc.ua/blog/3.webp
 ```
-![blog](https://images.zxl.cc.ua/blog/12.webp)
-```
-https://images.zxl.cc.ua/blog/12.webp
-```
 ![blog](https://images.zxl.cc.ua/blog/18.webp)
 ```
 https://images.zxl.cc.ua/blog/18.webp
@@ -37,6 +33,14 @@ https://images.zxl.cc.ua/blog/18.webp
 ![blog](https://images.zxl.cc.ua/blog/19.webp)
 ```
 https://images.zxl.cc.ua/blog/19.webp
+```
+![blog](https://images.zxl.cc.ua/blog/12.webp)
+```
+https://images.zxl.cc.ua/blog/12.webp
+```
+![blog](https://images.zxl.cc.ua/blog/16.webp)
+```
+https://images.zxl.cc.ua/blog/16.webp
 ```
 ```
 `
