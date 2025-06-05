@@ -1,7 +1,15 @@
+![blog](https://bloga.zxlwq.dpdns.org/jpg/favicon.webp)
+```
+https://bloga.zxlwq.dpdns.org/jpg/favicon.webp
+```
 ![blog](https://jpg.zxlwq.dpdns.org/blog/1.webp)
 ```
 https://jpg.zxlwq.dpdns.org/blog/1.webp
 ```
+```
+https://bloga.zxlwq.dpdns.org/jpg/1.webp
+```
+
 ![blog](https://jpg.zxlwq.dpdns.org/blog/8.webp)
 ```
 https://jpg.zxlwq.dpdns.org/blog/8.webp
