@@ -1,3 +1,13 @@
+PicList同步配置文件
+```
+zxlwq
+```
+```
+images
+```
+```
+main
+```
 ![blog](https://bloga.zxlwq.dpdns.org/jpg/favicon.webp)
 ```
 https://bloga.zxlwq.dpdns.org/jpg/favicon.webp
