@@ -8,9 +8,9 @@ images
 ```
 main
 ```
-![blog](https://jpg.zxlwq.dpdns.org/blog/background.webp)
+![blog](https://blog.wedp.dpdns.org/jpg/background.webp)
 ```
-https://jpg.zxlwq.dpdns.org/blog/background.webp
+https://blog.wedp.dpdns.org/jpg/background.webp
 ```
 ![blog](https://jpg.zxlwq.dpdns.org/blog/1.webp)
 ```
