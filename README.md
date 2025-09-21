@@ -1,13 +1,3 @@
-PicList同步配置文件
-```
-zxlwq
-```
-```
-images
-```
-```
-main
-```
 ![blog](https://blog.wedp.dpdns.org/jpg/background.webp)
 ```
 https://blog.wedp.dpdns.org/jpg/background.webp
